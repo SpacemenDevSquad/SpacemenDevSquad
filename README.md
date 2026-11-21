@@ -27,6 +27,6 @@ Computer Science student at **Grove City College** (B.S. '27) with minors in AI 
 ### 📫 Find me
 
 [![Website](https://img.shields.io/badge/peterbrumbach.com-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://peterbrumbach.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-brumbach-307462287/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQuMiIgY3k9IjQuMiIgcj0iMi4zIi8%2BPHJlY3QgeD0iMi4xIiB5PSI4IiB3aWR0aD0iNC4yIiBoZWlnaHQ9IjE0Ii8%2BPHBhdGggZD0iTTkgOGg0djJjLjgtMS40IDIuNC0yLjMgNC40LTIuM0MyMC42IDcuNyAyMiA5LjggMjIgMTMuNFYyMmgtNC4ydi03LjZjMC0xLjgtLjctMi44LTIuMS0yLjgtMS42IDAtMi41IDEuMS0yLjUgMi44VjIySDl6Ii8%2BPC9zdmc%2BCg%3D%3D)](https://www.linkedin.com/in/peter-brumbach-307462287/)
 [![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/SpacemenDevSquad/SpacemenDevSquad/blob/main/resume/main.pdf)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pmbrumbach@protonmail.com)
