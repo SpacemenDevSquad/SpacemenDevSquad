@@ -28,5 +28,5 @@ Computer Science student at **Grove City College** (B.S. '27) with minors in AI 
 
 [![Website](https://img.shields.io/badge/peterbrumbach.com-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://peterbrumbach.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-brumbach-307462287/)
-[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readdotcv&logoColor=white)](RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/SpacemenDevSquad/SpacemenDevSquad/blob/main/resume/main.pdf)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pmbrumbach@protonmail.com)
