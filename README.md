@@ -1,4 +1,4 @@
-## Hi, I'm Peter 👋
+## Hi, I'm Peter
 
 Computer Science student at **Grove City College** (B.S. '27) with minors in AI & Machine Learning, Cybersecurity, Game Design & Development, and Mobile Development. I like building games, mobile apps, and self-hosted web projects.
 
